@@ -1,9 +1,5 @@
-Name = "John smith"
-Age = 20
-status = True
-print("welcome")
-print(Name)
-print("Age in years")
-print(Age)
-print("agreement Status")
-print(status)
+first_n = input("First: ")
+second_n = input("second: ")
+Total = float(first_n)+ float(second_n)
+print("Sum:"+ str(Total))
+
